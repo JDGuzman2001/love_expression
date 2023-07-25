@@ -237,7 +237,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                         Image.asset('assets/images/Arreglo_3-removebg-preview.png'),
                                       ),
                                        SizedBox(height: 5),
-                                       Text('(16 rosas)',
+                                       Text('(20 rosas)',
                                        style: TextStyle(
                                         color: Colors.white,
                                         fontSize: 12.0,fontWeight: FontWeight.bold,
@@ -246,7 +246,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                     ] 
                                     ),
                             SizedBox(height: 20),
-                            Text('\$90.000 COP',
+                            Text('\$75.000 COP',
                             style: TextStyle(
                               color: Colors.white,
                               fontSize: 18.0,
@@ -315,7 +315,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                         Image.asset('assets/images/Arreglo_4-removebg-preview.png'),
                                       ),
                                        SizedBox(height: 5),
-                                       Text('(16 rosas)',
+                                       Text('(18 rosas)',
                                        style: TextStyle(
                                         color: Colors.white,
                                         fontSize: 12.0,fontWeight: FontWeight.bold,
@@ -324,7 +324,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                     ] 
                                     ),
                             SizedBox(height: 20),
-                            Text('\$90.000 COP',
+                            Text('\$85.000 COP',
                             style: TextStyle(
                               color: Colors.white,
                               fontSize: 18.0,
@@ -393,7 +393,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                         Image.asset('assets/images/Arreglo_5-removebg-preview.png'),
                                       ),
                                        SizedBox(height: 5),
-                                       Text('(16 rosas)',
+                                       Text('(6 rosas y 5 girasoles)',
                                        style: TextStyle(
                                         color: Colors.white,
                                         fontSize: 12.0,fontWeight: FontWeight.bold,
@@ -402,7 +402,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                     ] 
                                     ),
                             SizedBox(height: 20),
-                            Text('\$90.000 COP',
+                            Text('\$55.000 COP',
                             style: TextStyle(
                               color: Colors.white,
                               fontSize: 18.0,
@@ -471,7 +471,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                         Image.asset('assets/images/Arreglo_6-removebg-preview.png'),
                                       ),
                                        SizedBox(height: 5),
-                                       Text('(16 rosas)',
+                                       Text('(18 rosas)',
                                        style: TextStyle(
                                         color: Colors.white,
                                         fontSize: 12.0,fontWeight: FontWeight.bold,
@@ -480,7 +480,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                     ] 
                                     ),
                             SizedBox(height: 20),
-                            Text('\$90.000 COP',
+                            Text('\$85.000 COP',
                             style: TextStyle(
                               color: Colors.white,
                               fontSize: 18.0,
@@ -549,7 +549,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                         Image.asset('assets/images/Arreglo_7-removebg-preview.png'),
                                       ),
                                        SizedBox(height: 5),
-                                       Text('(16 rosas)',
+                                       Text('(12 rosas)',
                                        style: TextStyle(
                                         color: Colors.white,
                                         fontSize: 12.0,fontWeight: FontWeight.bold,
@@ -558,7 +558,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                     ] 
                                     ),
                             SizedBox(height: 20),
-                            Text('\$90.000 COP',
+                            Text('\$65.000 COP',
                             style: TextStyle(
                               color: Colors.white,
                               fontSize: 18.0,
